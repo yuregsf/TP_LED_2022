@@ -5,7 +5,9 @@ master  - é primeira versão (principal do código)
 
 commit - envio de uma nova versão 
 *como fazer um commit: 
+
 1 - git add -A
+
 2- git commit -m "texto com uma informação sobre a atualização realizada"
 
 git status - mostrar quais arquivos foram adicionados ou alterados
